@@ -6,7 +6,6 @@
 int main() {
 
     //My First Code push on Github
-
     char designation[10]="";
     float price = 100;
     float total;
@@ -46,6 +45,8 @@ int main() {
     }
     
     return 0;
+
+    //Working
 }
 
 
