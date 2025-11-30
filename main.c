@@ -5,13 +5,12 @@
 
 int main() {
     
-    //To Check whether a person is eligible for getting Student discount or not.
-    
-    //All Kind of Students will be getting 25%,50%,75% OFF for any purchase.
-
-
     //My First Code push on Github !
 
+    //To Check whether a person is eligible for getting Student discount or not.
+    //All Kind of Students will be getting 25%,50%,75% OFF for any purchase.
+    
+    // ------------------------------------------------------------------------------------------------ //
     char designation[10]="";
     float price = 100;
     float total;
